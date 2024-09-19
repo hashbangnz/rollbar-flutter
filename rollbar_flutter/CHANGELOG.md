@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.5.1
+
+- Updated internal Rollbar Apple SDK to 3.3.2
+  - Fixes issues with Xcode 16 not being able to build package
+
 ## 1.5.0
 
 - Updated internal Rollbar Apple SDK to 3.2.0
